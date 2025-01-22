@@ -1,3 +1,6 @@
 [submodule "00-contextual-information"]
 	path = 00-contextual-information
 	url = https://github.com/thrive-archive/00-contextual-information
+[submodule "01-community-insights-srt-materials"]
+	path = 01-community-insights-srt-materials
+	url = https://github.com/thrive-archive/01-community-insights-srt-materials
