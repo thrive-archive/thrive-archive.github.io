@@ -1,12 +1,12 @@
 ---
 layout: post
-title: CJF Thrive Inland SoCal, Phase 2 Strategy Development
+title: West End SRT Reviewer Group - FEEDBACK ON DRAFT REGIONAL ECONOMIC PLAN
 permalink: /02-cerf-regional-summary/srt-strategy-feedback/wsb.html
 ---
 
 CJF Thrive Inland SoCal, Phase 2 Strategy Development
 
-**West End SRT Reviewer Group: FEEDBACK ON DRAFT REGIONAL ECONOMIC PLAN** 
+# West End SRT Reviewer Group: FEEDBACK ON DRAFT REGIONAL ECONOMIC PLAN
 
 *Includes feedback from April 30 & May 24 reviewer meetings, individual reviewer feedback and input from full SRT meeting on May 2*
 
@@ -14,7 +14,7 @@ CJF Thrive Inland SoCal, Phase 2 Strategy Development
 
 2. [General feedback](#general-feedback)
 
-   a. [Structure \& Organization](#structure-organization)
+   a. [Structure & Organization](#structure-organization)
 
       &nbsp;&nbsp;&nbsp;i. [VISION AND VALUES](#vision-and-values)
 
@@ -28,7 +28,7 @@ CJF Thrive Inland SoCal, Phase 2 Strategy Development
 
    e. [CONVERTING SUPPLY CHAIN INDUSTRY](#converting-supply-chain-industry)
 
-   f. [language \& accessibility](#language-accessibility)
+   f. [language & accessibility](#language-accessibility)
 
    g. [process concerns](#process-concerns)
 
@@ -72,9 +72,9 @@ Once there is more transparency and agreement on the chosen sectors based on cri
 
 2. ## <a name="general-feedback">General feedback</a>
 
-   1. ### <a name="structure-organization">Structure & Organization</a>
+   a. ### <a name="structure-organization">Structure & Organization</a>
 
-      1. #### <a name="vision-and-values">*VISION AND VALUES:*</a>  
+      i. #### <a name="vision-and-values">*VISION AND VALUES:*</a>  
 
          The report should begin with a statement of values and innovative vision that includes multi-benefit approaches and inspires community engagement, not business as usual.
 
@@ -86,11 +86,11 @@ Once there is more transparency and agreement on the chosen sectors based on cri
          6. ensure value, profit, and equity ownership stays in our region.  Encourage local ownership as a top priority.  incentivize innovative ownership structures that distribute wealth to workers and community stakeholders.  
          7. innovation & technology \- integration with university research & tech transfer
 
-      2. #### <a name="integrate-industrial-policy-with-wealth-building">*INTEGRATE INDUSTRIAL POLICY WITH WEALTH-BUILDING:*</a> 
+      ii. #### <a name="integrate-industrial-policy-with-wealth-building">*INTEGRATE INDUSTRIAL POLICY WITH WEALTH-BUILDING:*</a> 
 
           industrial policy and wealth-building sections should be integrated, incorporating the specific needs customized for each industry for childcare, social and cultural capital, wealth building, land use choices, training, career pathways, opportunities to integrate marginalized populations, economic opportunity, etc.
 
-   2. ### <a name="framing">Framing</a>
+   b. ### <a name="framing">Framing</a>
 
       1. Relegating the “community wealth building” to the second section has had the effect \- though we recognize this was not the intention \- of community perceiving they are not valued, that industry benefits will be prioritized as historical evidence has shown, and their needs will not be addressed.  We recognize that this is NOT the intent, but this is the impact.  
       2. Further emphasis is needed on original goals of the state initiative \- high-road jobs, equity, and climate \- in each sector.  Priorities from participating CJF agencies and suggested responses for inclusion are listed below:  
@@ -110,14 +110,14 @@ Once there is more transparency and agreement on the chosen sectors based on cri
          7. **President of the Public Utilities Commission**: representing opportunities to advance California’s clean energy workforce of the future and economic opportunities for communities  
       3. Each of these categories of representation at the state level for CJF has untapped potential in the identification of projects, resources, and directions that align directly with the call and that could place the West End region in a leadership position not only regionally but at the state level. Right now, much of the Inland Valley’s growth, especially in logistics, is an example of what not to do. For example, as logistics-based warehousing expands into the Central Valley, planners utilize the Inland Empire as a cautionary tale.
 
-   3. ### <a name="messaging">Messaging</a>
+   c. ### <a name="messaging">Messaging</a>
 
       1. Messaging should emphasize the key assets of the region: a hardworking populace, commitment to just working conditions and a clean environment, willingness to embrace change, the asset of land and rich soil, the idea of interconnection. The West End should become a gateway of innovation and ideas instead of or in addition to goods. It should be a gateway to diversification and transition in energy, water, waste, and nature-based solutions.   
       2. Messaging should emphasize the **values chosen by the group** that mirror the Governor’s call: this includes nature-based solutions, circular economies, innovative land uses, all of which need to be emphasized through choices and examples within the document.  
       3. Messaging should emphasize how we take detriments and actively turn them into opportunities. Sustainable supply chain is basically a greenwashing ploy rather than true transformation. The plan must address the excess capacity in the logistics industry and the hold that warehouse developers have on municipal and county decision-makers.  Language and messaging should emphasize  repurposing warehouse infrastructure to bolster a new, circular economy for transformative effects. The report must address how to utilize what we have already have to reshore the economy, provide local jobs and prosperity, including an acknowledgement of severe detrimental effects on the health of the workforce and community.  
       4. We want to set the criteria for our own alignment with the state’s goals in a way that anticipates and responds to the needs of future generations. 
 
-   4. ### <a name="assumptions">Assumptions</a>
+   d. ### <a name="assumptions">Assumptions</a>
 
       much greater transparency is needed to clarify the assumptions that undergird the interpretation of data and how decisions to emphasize certain sectors and strategies were made
 
@@ -138,9 +138,8 @@ Once there is more transparency and agreement on the chosen sectors based on cri
             5. these numbers are for southern California which contains SB, Riverside, LA and OC current as of April  
             6. good health care has greater ripple effects \- good place to retire, brings in wealth, domestic spending power and demand
 
-               
-
-   5. ### <a name="converting-supply-chain-industry">CONVERTING SUPPLY CHAIN INDUSTRY</a>
+            
+   e. ### <a name="converting-supply-chain-industry">CONVERTING SUPPLY CHAIN INDUSTRY</a>
 
       The group recommends removing the “sustainable supply chain” section and treating it as a different section, not in a sector to emphasize.  There has been widespread agreement among community stakeholders on this point, which has been repeatedly dismissed by consultants   
 
@@ -160,13 +159,11 @@ Once there is more transparency and agreement on the chosen sectors based on cri
       4. report must acknowledge significant excess capacity and turn attention to alternative uses of excess space.  supply has outstripped demand (we have 17 years worth of warehouses in the pipeline, and many warehouses remain vacant entirely or have high percentage vacancy)  
       5. Report must acknowledge need for economic resilience to shocks in the logistics and distribution sector, emphasize robustness of regional economy that demands diversification .
 
-         
-
-   6. ### <a name="language-accessibility">language & accessibility</a>
+   f. ### <a name="language-accessibility">language & accessibility</a>
 
       the report must reduce jargon, spell out acronyms, and avoid industry terms that community members would not recognize
 
-   7. ### <a name="process-concerns">process concerns</a>
+   g. ### <a name="process-concerns">process concerns</a>
 
       the lack of community/IPC involvement in the choice of the sectors and even the criteria with which they were chosen is a huge problem.
 
