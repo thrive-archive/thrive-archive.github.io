@@ -58,7 +58,7 @@ CJF Thrive Inland SoCal, Phase 2 Strategy Development
 
 [RAW NOTES FROM PARTICIPANTS](#raw-notes-from-participants)
 
-1. ## <a name="summary-overview">Summary Overview</a>:
+## 1. <a name="summary-overview">Summary Overview</a>
 
 We appreciate the hard work that went into the consultants’ analysis. We request that the report take a few steps back to rethink the criteria with which the sectors were chosen so that the clear community feedback is reflected in the assumptions, values, and priorities of all of the stakeholders. We have made some suggestions below.  
 
@@ -70,171 +70,167 @@ This concern is rooted in a basic understanding that the problems of bad jobs an
 
 Once there is more transparency and agreement on the chosen sectors based on criteria that the community stakeholders agree on, we suggest that  the “wealth building” categories be integrated with the industries so that each sector reflects the specific needs that are required for each sector to thrive. 
 
-2. ## <a name="general-feedback">General feedback</a>
+## 2. <a name="general-feedback">General feedback</a>
 
-   a. ### <a name="structure-organization">Structure & Organization</a>
+   ### a. <a name="structure-organization">Structure & Organization</a>
 
-      i. #### <a name="vision-and-values">*VISION AND VALUES:*</a>  
+   #### i. <a name="vision-and-values">*VISION AND VALUES:*</a>  
 
-         The report should begin with a statement of values and innovative vision that includes multi-benefit approaches and inspires community engagement, not business as usual.
+   The report should begin with a statement of values and innovative vision that includes multi-benefit approaches and inspires community engagement, not business as usual.
 
-         1. Involving community stakeholders in development decisions, especially land use planning.  Equitable economic development means doing things differently.  Transparency is key.  
-         2. Include mechanisms for Community Benefit Agreements that incentivize developers to work with stakeholders to contribute to capacity building and locally defined requirements  
-         3. Encourage Project Labor Agreements, labor friendly policies \- including right to organize, neutrality agreements/card checks, bright lines against inviting anti-union employers into the region, and processes for improving non-union jobs that protect collective action.  
-         4. project into the next 10 years and include “robustness” checks; ensure economic and community resilience if economic shocks hit particular industries.  Economic diversification that serves regional needs is the best way to ensure resilience against external shocks.    
-         5. take climate change and infrastructural readiness into account while reducing carbon and pollution emissions  
-         6. ensure value, profit, and equity ownership stays in our region.  Encourage local ownership as a top priority.  incentivize innovative ownership structures that distribute wealth to workers and community stakeholders.  
-         7. innovation & technology \- integration with university research & tech transfer
+   1. Involving community stakeholders in development decisions, especially land use planning.  Equitable economic development means doing things differently.  Transparency is key.  
+   2. Include mechanisms for Community Benefit Agreements that incentivize developers to work with stakeholders to contribute to capacity building and locally defined requirements  
+   3. Encourage Project Labor Agreements, labor friendly policies \- including right to organize, neutrality agreements/card checks, bright lines against inviting anti-union employers into the region, and processes for improving non-union jobs that protect collective action.  
+   4. project into the next 10 years and include “robustness” checks; ensure economic and community resilience if economic shocks hit particular industries.  Economic diversification that serves regional needs is the best way to ensure resilience against external shocks.    
+   5. take climate change and infrastructural readiness into account while reducing carbon and pollution emissions  
+   6. ensure value, profit, and equity ownership stays in our region.  Encourage local ownership as a top priority.  incentivize innovative ownership structures that distribute wealth to workers and community stakeholders.  
+   7. innovation & technology \- integration with university research & tech transfer
 
-      ii. #### <a name="integrate-industrial-policy-with-wealth-building">*INTEGRATE INDUSTRIAL POLICY WITH WEALTH-BUILDING:*</a> 
+   #### ii. <a name="integrate-industrial-policy-with-wealth-building">*INTEGRATE INDUSTRIAL POLICY WITH WEALTH-BUILDING:*</a> 
 
-          industrial policy and wealth-building sections should be integrated, incorporating the specific needs customized for each industry for childcare, social and cultural capital, wealth building, land use choices, training, career pathways, opportunities to integrate marginalized populations, economic opportunity, etc.
+   industrial policy and wealth-building sections should be integrated, incorporating the specific needs customized for each industry for childcare, social and cultural capital, wealth building, land use choices, training, career pathways, opportunities to integrate marginalized populations, economic opportunity, etc.
 
-   b. ### <a name="framing">Framing</a>
+   ### b. <a name="framing">Framing</a>
 
-      1. Relegating the “community wealth building” to the second section has had the effect \- though we recognize this was not the intention \- of community perceiving they are not valued, that industry benefits will be prioritized as historical evidence has shown, and their needs will not be addressed.  We recognize that this is NOT the intent, but this is the impact.  
-      2. Further emphasis is needed on original goals of the state initiative \- high-road jobs, equity, and climate \- in each sector.  Priorities from participating CJF agencies and suggested responses for inclusion are listed below:  
-         1. **Director of the Governor’s Office of Planning & Research \- LAND USE**: promoting alignment with General Plan guidelines and land use policies  
-            1. more attention is needed to land use policies, how the footprint of logistics sector is pricing out affordable housing and alternative uses.  
-            2. more attention is needed to how land use decisions are made at the municipal and county level. While we understand that municipal decisions are beyond the scope of CJF, this report has the potential to influence incentive structures and define a development culture based on “place” that will move the region toward common goals.  
-         2. **Secretary of the California Natural Resources Agency \- BEYOND CLEAN TECH**: representing nature-based solutions and clean energy industries  
-         3. **Secretary of the California Department of Food and Agriculture \- IMPORTANCE OF LOCAL FOOD SHEDS**: representing the agriculture industry  
-            1. While we recognize that traditional agriculture as historically practiced does not generate high quality jobs on average, there are ways to preserve agricultural capacity in the region which will be lost if not attended to.    
-            2. UCR ag research and resources should be utilized to weave capacity and potential for high-road jobs across the region  
-            3. Agricultural land trusts could serve to preserve rich fertile land that could serve regional needs without relying on external distribution networks.  
-         4. **Secretary of the California Environmental Protection Agency**: representing the circular economy  
-            1. agency language mentions the circular economy, how regional outputs can be used as regional inputs.  
-            2. limit truck traffic and emissions  
-         5. **Secretary of the California Health & Human Services Agency**: representing the healthcare industry and promoting jobs for disabled and disadvantaged workers  
-         6. **Secretary of the California Department of Veterans Affairs**: representing the more than 1.6 million former service members that reside in the state  
-         7. **President of the Public Utilities Commission**: representing opportunities to advance California’s clean energy workforce of the future and economic opportunities for communities  
-      3. Each of these categories of representation at the state level for CJF has untapped potential in the identification of projects, resources, and directions that align directly with the call and that could place the West End region in a leadership position not only regionally but at the state level. Right now, much of the Inland Valley’s growth, especially in logistics, is an example of what not to do. For example, as logistics-based warehousing expands into the Central Valley, planners utilize the Inland Empire as a cautionary tale.
+   1. Relegating the “community wealth building” to the second section has had the effect \- though we recognize this was not the intention \- of community perceiving they are not valued, that industry benefits will be prioritized as historical evidence has shown, and their needs will not be addressed.  We recognize that this is NOT the intent, but this is the impact.  
+   2. Further emphasis is needed on original goals of the state initiative \- high-road jobs, equity, and climate \- in each sector.  Priorities from participating CJF agencies and suggested responses for inclusion are listed below:  
+      1. **Director of the Governor’s Office of Planning & Research \- LAND USE**: promoting alignment with General Plan guidelines and land use policies  
+         1. more attention is needed to land use policies, how the footprint of logistics sector is pricing out affordable housing and alternative uses.  
+         2. more attention is needed to how land use decisions are made at the municipal and county level. While we understand that municipal decisions are beyond the scope of CJF, this report has the potential to influence incentive structures and define a development culture based on “place” that will move the region toward common goals.  
+      2. **Secretary of the California Natural Resources Agency \- BEYOND CLEAN TECH**: representing nature-based solutions and clean energy industries  
+      3. **Secretary of the California Department of Food and Agriculture \- IMPORTANCE OF LOCAL FOOD SHEDS**: representing the agriculture industry  
+         1. While we recognize that traditional agriculture as historically practiced does not generate high quality jobs on average, there are ways to preserve agricultural capacity in the region which will be lost if not attended to.    
+         2. UCR ag research and resources should be utilized to weave capacity and potential for high-road jobs across the region  
+         3. Agricultural land trusts could serve to preserve rich fertile land that could serve regional needs without relying on external distribution networks.  
+      4. **Secretary of the California Environmental Protection Agency**: representing the circular economy  
+         1. agency language mentions the circular economy, how regional outputs can be used as regional inputs.  
+         2. limit truck traffic and emissions  
+      5. **Secretary of the California Health & Human Services Agency**: representing the healthcare industry and promoting jobs for disabled and disadvantaged workers  
+      6. **Secretary of the California Department of Veterans Affairs**: representing the more than 1.6 million former service members that reside in the state  
+      7. **President of the Public Utilities Commission**: representing opportunities to advance California’s clean energy workforce of the future and economic opportunities for communities  
+   3. Each of these categories of representation at the state level for CJF has untapped potential in the identification of projects, resources, and directions that align directly with the call and that could place the West End region in a leadership position not only regionally but at the state level. Right now, much of the Inland Valley’s growth, especially in logistics, is an example of what not to do. For example, as logistics-based warehousing expands into the Central Valley, planners utilize the Inland Empire as a cautionary tale.
 
-   c. ### <a name="messaging">Messaging</a>
+   ### c. <a name="messaging">Messaging</a>
 
-      1. Messaging should emphasize the key assets of the region: a hardworking populace, commitment to just working conditions and a clean environment, willingness to embrace change, the asset of land and rich soil, the idea of interconnection. The West End should become a gateway of innovation and ideas instead of or in addition to goods. It should be a gateway to diversification and transition in energy, water, waste, and nature-based solutions.   
-      2. Messaging should emphasize the **values chosen by the group** that mirror the Governor’s call: this includes nature-based solutions, circular economies, innovative land uses, all of which need to be emphasized through choices and examples within the document.  
-      3. Messaging should emphasize how we take detriments and actively turn them into opportunities. Sustainable supply chain is basically a greenwashing ploy rather than true transformation. The plan must address the excess capacity in the logistics industry and the hold that warehouse developers have on municipal and county decision-makers.  Language and messaging should emphasize  repurposing warehouse infrastructure to bolster a new, circular economy for transformative effects. The report must address how to utilize what we have already have to reshore the economy, provide local jobs and prosperity, including an acknowledgement of severe detrimental effects on the health of the workforce and community.  
-      4. We want to set the criteria for our own alignment with the state’s goals in a way that anticipates and responds to the needs of future generations. 
+   1. Messaging should emphasize the key assets of the region: a hardworking populace, commitment to just working conditions and a clean environment, willingness to embrace change, the asset of land and rich soil, the idea of interconnection. The West End should become a gateway of innovation and ideas instead of or in addition to goods. It should be a gateway to diversification and transition in energy, water, waste, and nature-based solutions.   
+   2. Messaging should emphasize the **values chosen by the group** that mirror the Governor’s call: this includes nature-based solutions, circular economies, innovative land uses, all of which need to be emphasized through choices and examples within the document.  
+   3. Messaging should emphasize how we take detriments and actively turn them into opportunities. Sustainable supply chain is basically a greenwashing ploy rather than true transformation. The plan must address the excess capacity in the logistics industry and the hold that warehouse developers have on municipal and county decision-makers.  Language and messaging should emphasize  repurposing warehouse infrastructure to bolster a new, circular economy for transformative effects. The report must address how to utilize what we have already have to reshore the economy, provide local jobs and prosperity, including an acknowledgement of severe detrimental effects on the health of the workforce and community.  
+   4. We want to set the criteria for our own alignment with the state’s goals in a way that anticipates and responds to the needs of future generations. 
 
-   d. ### <a name="assumptions">Assumptions</a>
+   ### d. <a name="assumptions">Assumptions</a>
 
-      much greater transparency is needed to clarify the assumptions that undergird the interpretation of data and how decisions to emphasize certain sectors and strategies were made
+   much greater transparency is needed to clarify the assumptions that undergird the interpretation of data and how decisions to emphasize certain sectors and strategies were made
 
-      1. evaluative criteria for choosing sectors need to be defined by our group and we would like to see more unpacking of underlying assumptions.  
-      2. tradable sectors vs other models \- the emphasis on tradeable sectors was handed down from consultants without an opportunity to discuss this as a criteria for chosen sectors.  Each sector must lay out a much more detailed rationale:  
-         1. data sources and uses, ripple effects on high-quality jobs vs detrimental effects  
-         2. public dollars \- impact of bringing in funds  
-         3. public workers  
-         4. policy levers and incentive structures  
-         5. inflection points where sector growth becomes dynamic & self-reinforcing  
-      3. As an alternative to the emphasis on tradeable sectors, the group recommends greater attention to matching supply and demand for services as economic drivers  
-         1. nurturing small businesses that meet regional demand, pathways for growth, access to capital and services  
-         2. adding health care sector to sector list \- HEALTHCARE WORKFORCE  
-            1. Health/Social Services:  1,321,400 workers \- up 6,600 in a month and 67,400  
-            2. Logistics/utilities:  799,800 workers \- up 1,000 in a month, but down 2,600 in a year  
-            3. Manufacturing:  565,000 workers \- down 1,200 in a month and down 9,800 in a year  
-            4. Professional-business services:  1,123,300 workers \- down 1,400 in a month and down 19,600 in a year  
-            5. these numbers are for southern California which contains SB, Riverside, LA and OC current as of April  
-            6. good health care has greater ripple effects \- good place to retire, brings in wealth, domestic spending power and demand
-
-            
-   e. ### <a name="converting-supply-chain-industry">CONVERTING SUPPLY CHAIN INDUSTRY</a>
-
-      The group recommends removing the “sustainable supply chain” section and treating it as a different section, not in a sector to emphasize.  There has been widespread agreement among community stakeholders on this point, which has been repeatedly dismissed by consultants   
-
-      1. rationale:   This concern is rooted in a basic understanding that the problems of bad jobs and negative environmental impact are built into the current system of goods movement that exists in the region and cannot be mitigated by establishment of new facilities that have better practices. The limited resources available through this process cannot be used to attract or incubate new logistics activity, no matter how clean or high road. These resources must rather be used to directly change the practices of existing logistics operations,creating systems to internalize environmental impacts and improve jobs without subsidizing global corporations.    
-         1. No state resources must be used to subsidize companies with labor violations or unfair labor practices.    
-         2. Companies should be incentivized to reach “community benefits agreements” with impacted areas to mitigate negative effects on health, infrastructure, displacement, etc.    
-         3. Projects should clean up the logistics jobs that are already here. That is the only appropriate use of state resources in engaging with this sector. Other action is merely creating small projects that are outstripped by the billion square feet of logistics space in the region and the millions more slated to be built in the coming decades.  
-      2. This specifically means building in the following measures: 
-
-         1. Creation or support of projects like Plug in IE, focused on transitioning warehouses with good union jobs into sites of innovation with electric vehicles and operations \- which we recognize is mentioned in the draft plan, and support. These projects can focus on bringing historically disadvantaged groups into occupations in the high tech areas that we believe are the long term logistics jobs that will benefit local residents. 
-
-         2. Establishment of healthy community standards through negotiation of community benefits agreements in areas impacted by warehouses. Requiring employers to engage directly with their neighbors and make sure the profits of these facilities are returned to the communities in the area through local hire, infrastructure support and environmental mitigation create massive benefits in terms of health, economic opportunity and livelihood for local communities. 
-
-         3. Requirement that employers receiving state resources have no labor violations including unfair labor practices, health and safety violations or wage theft. In addition, we would want to see a limitation on use of staffing agencies as the vehicle for employing workers in these facilities, given their role in creating tiers of exploited and underpaid workers that destabilizes the regional labor market. These are indicators of poor working conditions and union-busting that cannot be tolerated in our region.
-
-      3. language in other sectors sounds like it’s all in service of logistics  
-      4. report must acknowledge significant excess capacity and turn attention to alternative uses of excess space.  supply has outstripped demand (we have 17 years worth of warehouses in the pipeline, and many warehouses remain vacant entirely or have high percentage vacancy)  
-      5. Report must acknowledge need for economic resilience to shocks in the logistics and distribution sector, emphasize robustness of regional economy that demands diversification .
-
-   f. ### <a name="language-accessibility">language & accessibility</a>
-
-      the report must reduce jargon, spell out acronyms, and avoid industry terms that community members would not recognize
-
-   g. ### <a name="process-concerns">process concerns</a>
-
-      the lack of community/IPC involvement in the choice of the sectors and even the criteria with which they were chosen is a huge problem.
-
-3. ## <a name="feedback-on-specific-sections">Feedback on specific sections</a>
-
-   1. ### <a name="integrated-table-of-contents-for-each-industrial-sector">Integrated table of contents for each industrial sector</a>
-
-      Each sector in the industry list should include the following categories, specific to each industry cluster (this section could be considered a table of contents for each sector), helping to justify its inclusion: 
-
-      1. data sources and references  
-      2. clear criteria and ripple effects  
-         1. what are the policy levers in play?  
-         2. transparency on which industrial sectors are being used to define the sector  
-         3. jobs \- permanent, temporary, construction jobs  
-      3. union issues, and pathways to improve job quality  
-      4. career pathways, workforce development  
-      5. support services, e.g. childcare, transportation, accessibility  
-      6. future projections \- demonstrate job growth  
-      7. metrics  
-      8. implementation issues & plans  
-         1. policy issues  
-         2. regulation issues  
-         3. political context  
-         4. stakeholders and decision makers, professional/industry associations  
-      9. integration between sectors  
-      10. **impact on public health \- demonstrated positive impact or must not be pursued (aggregate all relevant industrial codes)**  
-      11. **impact on equity \- demonstrated positive impact or must not be pursued (aggregate all relevant industrial codes)**  
-      12. **impact on local wealth building, keeping value creation in the region, keeping equity ownership stakes in the region**
-
-          
-
-   2. ### <a name="sectors-feedback">Sectors feedback</a>
-
-      1. #### <a name="advanced-manufacturing">*advanced manufacturing*</a>
-
-         we like this section
-
-      2. #### <a name="business-services">*business services*</a>  
-
-         this section is important, and need to emphasize regional needs
-
-      3. #### <a name="clean-tech-climate-technology">*Clean tech / climate technology*</a>
-
-         this is a critical section
-
-      4. #### <a name="sustainable-supply-chain">*“sustainable supply chain”*</a>
-
-         should be REMOVED OR REWORDED to reflect economic diversification, transformation, and proposals for dealing with current and future excess capacity, resilience to economic shocks, implementation of labor reforms along with health and safety, etc.  See section in general feedback section above.
-
-      5. #### <a name="additions">*ADDITIONS*</a>
-
-         1. HEALTH CARE  
-         2. ARTS & CULTURE \- ask Carolyn for aggregated workforce data  
-         3. ENTREPRENEURSHIP & SMALL BUSINESS
+   1. evaluative criteria for choosing sectors need to be defined by our group and we would like to see more unpacking of underlying assumptions.  
+   2. tradable sectors vs other models \- the emphasis on tradeable sectors was handed down from consultants without an opportunity to discuss this as a criteria for chosen sectors.  Each sector must lay out a much more detailed rationale:  
+      1. data sources and uses, ripple effects on high-quality jobs vs detrimental effects  
+      2. public dollars \- impact of bringing in funds  
+      3. public workers  
+      4. policy levers and incentive structures  
+      5. inflection points where sector growth becomes dynamic & self-reinforcing  
+   3. As an alternative to the emphasis on tradeable sectors, the group recommends greater attention to matching supply and demand for services as economic drivers  
+      1. nurturing small businesses that meet regional demand, pathways for growth, access to capital and services  
+      2. adding health care sector to sector list \- HEALTHCARE WORKFORCE  
+         1. Health/Social Services:  1,321,400 workers \- up 6,600 in a month and 67,400  
+         2. Logistics/utilities:  799,800 workers \- up 1,000 in a month, but down 2,600 in a year  
+         3. Manufacturing:  565,000 workers \- down 1,200 in a month and down 9,800 in a year  
+         4. Professional-business services:  1,123,300 workers \- down 1,400 in a month and down 19,600 in a year  
+         5. these numbers are for southern California which contains SB, Riverside, LA and OC current as of April  
+         6. good health care has greater ripple effects \- good place to retire, brings in wealth, domestic spending power and demand
 
             
+   ### e. <a name="converting-supply-chain-industry">CONVERTING SUPPLY CHAIN INDUSTRY</a>
 
-      6. #### <a name="wealth-building">*“wealth building”*</a>
+   The group recommends removing the “sustainable supply chain” section and treating it as a different section, not in a sector to emphasize.  There has been widespread agreement among community stakeholders on this point, which has been repeatedly dismissed by consultants   
 
-         1. ##### development of job opportunities for disinvested populations {#development-of-job-opportunities-for-disinvested-populations}
+   1. rationale:   This concern is rooted in a basic understanding that the problems of bad jobs and negative environmental impact are built into the current system of goods movement that exists in the region and cannot be mitigated by establishment of new facilities that have better practices. The limited resources available through this process cannot be used to attract or incubate new logistics activity, no matter how clean or high road. These resources must rather be used to directly change the practices of existing logistics operations,creating systems to internalize environmental impacts and improve jobs without subsidizing global corporations.    
+      1. No state resources must be used to subsidize companies with labor violations or unfair labor practices.    
+      2. Companies should be incentivized to reach “community benefits agreements” with impacted areas to mitigate negative effects on health, infrastructure, displacement, etc.    
+      3. Projects should clean up the logistics jobs that are already here. That is the only appropriate use of state resources in engaging with this sector. Other action is merely creating small projects that are outstripped by the billion square feet of logistics space in the region and the millions more slated to be built in the coming decades.  
+   2. This specifically means building in the following measures: 
 
-            1. undocumented/ITIN holders  
-            2. formerly incarcerated  
-            3. youth  
-            4. indigenous/original stewards
+      1. Creation or support of projects like Plug in IE, focused on transitioning warehouses with good union jobs into sites of innovation with electric vehicles and operations \- which we recognize is mentioned in the draft plan, and support. These projects can focus on bringing historically disadvantaged groups into occupations in the high tech areas that we believe are the long term logistics jobs that will benefit local residents. 
 
-         2. ##### <a name="streamlined-process-for-all-businesses">streamlined process for all businesses to get the licensure and legal advice they need. </a>
+      2. Establishment of healthy community standards through negotiation of community benefits agreements in areas impacted by warehouses. Requiring employers to engage directly with their neighbors and make sure the profits of these facilities are returned to the communities in the area through local hire, infrastructure support and environmental mitigation create massive benefits in terms of health, economic opportunity and livelihood for local communities. 
 
-         3. ##### <a name="access-to-equity-capital">access to equity capital</a>
+      3. Requirement that employers receiving state resources have no labor violations including unfair labor practices, health and safety violations or wage theft. In addition, we would want to see a limitation on use of staffing agencies as the vehicle for employing workers in these facilities, given their role in creating tiers of exploited and underpaid workers that destabilizes the regional labor market. These are indicators of poor working conditions and union-busting that cannot be tolerated in our region.
 
-            need a section to address access to equity capital investment (a.k.a. “community development venture capital”)  that builds capital resources in our region and preserves regional ownership.
+   3. language in other sectors sounds like it’s all in service of logistics  
+   4. report must acknowledge significant excess capacity and turn attention to alternative uses of excess space.  supply has outstripped demand (we have 17 years worth of warehouses in the pipeline, and many warehouses remain vacant entirely or have high percentage vacancy)  
+   5. Report must acknowledge need for economic resilience to shocks in the logistics and distribution sector, emphasize robustness of regional economy that demands diversification.
+
+   ### f. <a name="language-accessibility">language & accessibility</a>
+
+   the report must reduce jargon, spell out acronyms, and avoid industry terms that community members would not recognize
+
+   ### g. <a name="process-concerns">process concerns</a>
+
+   the lack of community/IPC involvement in the choice of the sectors and even the criteria with which they were chosen is a huge problem.
+
+## 3. <a name="feedback-on-specific-sections">Feedback on specific sections</a>
+
+   ### a. <a name="integrated-table-of-contents-for-each-industrial-sector">Integrated table of contents for each industrial sector</a>
+
+   Each sector in the industry list should include the following categories, specific to each industry cluster (this section could be considered a table of contents for each sector), helping to justify its inclusion: 
+
+   1. data sources and references  
+   2. clear criteria and ripple effects  
+      1. what are the policy levers in play?  
+      2. transparency on which industrial sectors are being used to define the sector  
+      3. jobs \- permanent, temporary, construction jobs  
+   3. union issues, and pathways to improve job quality  
+   4. career pathways, workforce development  
+   5. support services, e.g. childcare, transportation, accessibility  
+   6. future projections \- demonstrate job growth  
+   7. metrics  
+   8. implementation issues & plans  
+      1. policy issues  
+      2. regulation issues  
+      3. political context  
+      4. stakeholders and decision makers, professional/industry associations  
+   9. integration between sectors  
+   10. **impact on public health \- demonstrated positive impact or must not be pursued (aggregate all relevant industrial codes)**  
+   11. **impact on equity \- demonstrated positive impact or must not be pursued (aggregate all relevant industrial codes)**  
+   12. **impact on local wealth building, keeping value creation in the region, keeping equity ownership stakes in the region**
+
+   ### b. <a name="sectors-feedback">Sectors feedback</a>
+
+   #### i. <a name="advanced-manufacturing">*advanced manufacturing*</a>
+
+   we like this section
+
+   #### ii. <a name="business-services">*business services*</a>  
+
+   this section is important, and need to emphasize regional needs
+
+   #### iii. <a name="clean-tech-climate-technology">*Clean tech / climate technology*</a>
+
+   this is a critical section
+
+   #### iv. <a name="sustainable-supply-chain">*“sustainable supply chain”*</a>
+
+   should be REMOVED OR REWORDED to reflect economic diversification, transformation, and proposals for dealing with current and future excess capacity, resilience to economic shocks, implementation of labor reforms along with health and safety, etc.  See section in general feedback section above.
+
+   #### v. <a name="additions">*ADDITIONS*</a>
+
+   1. HEALTH CARE  
+   2. ARTS & CULTURE \- ask Carolyn for aggregated workforce data  
+   3. ENTREPRENEURSHIP & SMALL BUSINESS
+
+   #### vi. <a name="wealth-building">*“wealth building”*</a>
+
+   ##### 1. <a name="development-of-job-opportunities-for-disinvested-populations">development of job opportunities for disinvested populations</a>
+
+   1. undocumented/ITIN holders  
+   2. formerly incarcerated  
+   3. youth  
+   4. indigenous/original stewards
+
+   ##### 2. <a name="streamlined-process-for-all-businesses">streamlined process for all businesses to get the licensure and legal advice they need.</a>
+
+   ##### 3. <a name="access-to-equity-capital">access to equity capital</a>
+
+   need a section to address access to equity capital investment (a.k.a. “community development venture capital”)  that builds capital resources in our region and preserves regional ownership.
 
 ## <a name="raw-notes-from-participants">RAW NOTES FROM PARTICIPANTS</a>
 
