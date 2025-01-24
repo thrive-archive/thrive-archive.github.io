@@ -1,8 +1,9 @@
-
+---
 layout: page 
 title: Coachella/Morongo Basin SRT Meeting
 permalink: /01-insights/community/cv/srt-meeting-summary.html
 published
+---
 
 # Coachella/Morongo Basin SRT Meeting Summary
 
