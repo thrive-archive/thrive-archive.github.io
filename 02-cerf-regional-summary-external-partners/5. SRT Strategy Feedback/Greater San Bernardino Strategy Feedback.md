@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CJF Thrive Inland SoCal, Phase 2 Strategy Development
+title: Greater SB SRT Meeting and Reviewer Group Notes
 permalink: /02-cerf-regional-summary/srt-strategy-feedback/gsb.html
 ---
 

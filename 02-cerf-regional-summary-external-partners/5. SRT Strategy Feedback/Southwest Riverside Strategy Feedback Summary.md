@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CJF Thrive Inland SoCal, Phase 2 Strategy Development
+title: Southwestern Riverside - Strategy Feedback Meeting Summary
 permalink: /02-cerf-regional-summary/srt-strategy-feedback/swr.html
 ---
 

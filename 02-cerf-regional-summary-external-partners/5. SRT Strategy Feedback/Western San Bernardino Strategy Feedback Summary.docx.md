@@ -10,55 +10,55 @@ CJF Thrive Inland SoCal, Phase 2 Strategy Development
 
 *Includes feedback from April 30 & May 24 reviewer meetings, individual reviewer feedback and input from full SRT meeting on May 2*
 
-[1\. Summary Overview:](#summary-overview:)
+1. [Summary Overview](#summary-overview)
 
-[2\. General feedback](#general-feedback)
+2. [General feedback](#general-feedback)
 
-[a. Structure & Organization](#structure-&-organization)
+   a. [Structure \& Organization](#structure-organization)
 
-[i. VISION AND VALUES:](#vision-and-values:)
+      &nbsp;&nbsp;&nbsp;i. [VISION AND VALUES](#vision-and-values)
 
-[ii. INTEGRATE INDUSTRIAL POLICY WITH WEALTH-BUILDING:](#integrate-industrial-policy-with-wealth-building:)
+      &nbsp;&nbsp;&nbsp;ii. [INTEGRATE INDUSTRIAL POLICY WITH WEALTH-BUILDING](#integrate-industrial-policy-with-wealth-building)
 
-[b. Framing](#framing)
+   b. [Framing](#framing)
 
-[c. Messaging](#messaging)
+   c. [Messaging](#messaging)
 
-[d. Assumptions](#assumptions)
+   d. [Assumptions](#assumptions)
 
-[e. CONVERTING SUPPLY CHAIN INDUSTRY](#converting-supply-chain-industry)
+   e. [CONVERTING SUPPLY CHAIN INDUSTRY](#converting-supply-chain-industry)
 
-[f. language & accessibility \-](#language-&-accessibility--)
+   f. [language \& accessibility](#language-accessibility)
 
-[g. process concerns \-](#process-concerns--)
+   g. [process concerns](#process-concerns)
 
-[3\. Feedback on specific sections](#feedback-on-specific-sections)
+3. [Feedback on specific sections](#feedback-on-specific-sections)
 
-[a. Integrated table of contents for each industrial sector](#integrated-table-of-contents-for-each-industrial-sector)
+   a. [Integrated table of contents for each industrial sector](#integrated-table-of-contents-for-each-industrial-sector)
 
-[b. Sectors feedback](#sectors-feedback)
+   b. [Sectors feedback](#sectors-feedback)
 
-[i. advanced manufacturing \-](#advanced-manufacturing--)
+   &nbsp;&nbsp;&nbsp;i. [advanced manufacturing](#advanced-manufacturing)
 
-[ii. business services \-](#business-services--)
+   &nbsp;&nbsp;&nbsp;ii. [business services](#business-services)
 
-[iii. Clean tech / climate technology \-](#clean-tech-/-climate-technology--)
+   &nbsp;&nbsp;&nbsp;iii. [Clean tech / climate technology](#clean-tech-climate-technology)
 
-[iv. “sustainable supply chain” \-](#“sustainable-supply-chain”--)
+   &nbsp;&nbsp;&nbsp;iv. [“sustainable supply chain”](#sustainable-supply-chain)
 
-[v. ADDITIONS](#additions)
+   &nbsp;&nbsp;&nbsp;v. [ADDITIONS](#additions)
 
-[vi. “wealth building”](#“wealth-building”)
+   &nbsp;&nbsp;&nbsp;vi. [“wealth building”](#wealth-building)
 
-[1\. development of job opportunities for disinvested populations](#development-of-job-opportunities-for-disinvested-populations)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [development of job opportunities for disinvested populations](#development-of-job-opportunities-for-disinvested-populations)
 
-[2\. streamlined process for all businesses to get the licensure and legal advice they need.](#streamlined-process-for-all-businesses-to-get-the-licensure-and-legal-advice-they-need.)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. [streamlined process for all businesses to get the licensure and legal advice they need.](#streamlined-process-for-all-businesses)
 
-[3\. access to equity capital](#access-to-equity-capital)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. [access to equity capital](#access-to-equity-capital)
 
 [RAW NOTES FROM PARTICIPANTS](#raw-notes-from-participants)
 
-1. ## Summary Overview:  {#summary-overview:}
+1. ## <a name="summary-overview">Summary Overview</a>:
 
 We appreciate the hard work that went into the consultants’ analysis. We request that the report take a few steps back to rethink the criteria with which the sectors were chosen so that the clear community feedback is reflected in the assumptions, values, and priorities of all of the stakeholders. We have made some suggestions below.  
 
@@ -70,11 +70,11 @@ This concern is rooted in a basic understanding that the problems of bad jobs an
 
 Once there is more transparency and agreement on the chosen sectors based on criteria that the community stakeholders agree on, we suggest that  the “wealth building” categories be integrated with the industries so that each sector reflects the specific needs that are required for each sector to thrive. 
 
-2. ## General feedback {#general-feedback}
+2. ## <a name="general-feedback">General feedback</a>
 
-   1. ### Structure & Organization {#structure-&-organization}
+   1. ### <a name="structure-organization">Structure & Organization</a>
 
-      1. #### *VISION AND VALUES:*  {#vision-and-values:}
+      1. #### <a name="vision-and-values">*VISION AND VALUES:*</a>  
 
          The report should begin with a statement of values and innovative vision that includes multi-benefit approaches and inspires community engagement, not business as usual.
 
@@ -86,11 +86,11 @@ Once there is more transparency and agreement on the chosen sectors based on cri
          6. ensure value, profit, and equity ownership stays in our region.  Encourage local ownership as a top priority.  incentivize innovative ownership structures that distribute wealth to workers and community stakeholders.  
          7. innovation & technology \- integration with university research & tech transfer
 
-      2. #### *INTEGRATE INDUSTRIAL POLICY WITH WEALTH-BUILDING:* {#integrate-industrial-policy-with-wealth-building:}
+      2. #### <a name="integrate-industrial-policy-with-wealth-building">*INTEGRATE INDUSTRIAL POLICY WITH WEALTH-BUILDING:*</a> 
 
           industrial policy and wealth-building sections should be integrated, incorporating the specific needs customized for each industry for childcare, social and cultural capital, wealth building, land use choices, training, career pathways, opportunities to integrate marginalized populations, economic opportunity, etc.
 
-   2. ### Framing {#framing}
+   2. ### <a name="framing">Framing</a>
 
       1. Relegating the “community wealth building” to the second section has had the effect \- though we recognize this was not the intention \- of community perceiving they are not valued, that industry benefits will be prioritized as historical evidence has shown, and their needs will not be addressed.  We recognize that this is NOT the intent, but this is the impact.  
       2. Further emphasis is needed on original goals of the state initiative \- high-road jobs, equity, and climate \- in each sector.  Priorities from participating CJF agencies and suggested responses for inclusion are listed below:  
@@ -110,16 +110,14 @@ Once there is more transparency and agreement on the chosen sectors based on cri
          7. **President of the Public Utilities Commission**: representing opportunities to advance California’s clean energy workforce of the future and economic opportunities for communities  
       3. Each of these categories of representation at the state level for CJF has untapped potential in the identification of projects, resources, and directions that align directly with the call and that could place the West End region in a leadership position not only regionally but at the state level. Right now, much of the Inland Valley’s growth, especially in logistics, is an example of what not to do. For example, as logistics-based warehousing expands into the Central Valley, planners utilize the Inland Empire as a cautionary tale.
 
-   3. ### Messaging {#messaging}
+   3. ### <a name="messaging">Messaging</a>
 
       1. Messaging should emphasize the key assets of the region: a hardworking populace, commitment to just working conditions and a clean environment, willingness to embrace change, the asset of land and rich soil, the idea of interconnection. The West End should become a gateway of innovation and ideas instead of or in addition to goods. It should be a gateway to diversification and transition in energy, water, waste, and nature-based solutions.   
       2. Messaging should emphasize the **values chosen by the group** that mirror the Governor’s call: this includes nature-based solutions, circular economies, innovative land uses, all of which need to be emphasized through choices and examples within the document.  
       3. Messaging should emphasize how we take detriments and actively turn them into opportunities. Sustainable supply chain is basically a greenwashing ploy rather than true transformation. The plan must address the excess capacity in the logistics industry and the hold that warehouse developers have on municipal and county decision-makers.  Language and messaging should emphasize  repurposing warehouse infrastructure to bolster a new, circular economy for transformative effects. The report must address how to utilize what we have already have to reshore the economy, provide local jobs and prosperity, including an acknowledgement of severe detrimental effects on the health of the workforce and community.  
       4. We want to set the criteria for our own alignment with the state’s goals in a way that anticipates and responds to the needs of future generations. 
 
-         
-
-   4. ### Assumptions  {#assumptions}
+   4. ### <a name="assumptions">Assumptions</a>
 
       much greater transparency is needed to clarify the assumptions that undergird the interpretation of data and how decisions to emphasize certain sectors and strategies were made
 
@@ -142,7 +140,7 @@ Once there is more transparency and agreement on the chosen sectors based on cri
 
                
 
-   5. ### CONVERTING SUPPLY CHAIN INDUSTRY {#converting-supply-chain-industry}
+   5. ### <a name="converting-supply-chain-industry">CONVERTING SUPPLY CHAIN INDUSTRY</a>
 
       The group recommends removing the “sustainable supply chain” section and treating it as a different section, not in a sector to emphasize.  There has been widespread agreement among community stakeholders on this point, which has been repeatedly dismissed by consultants   
 
@@ -164,17 +162,17 @@ Once there is more transparency and agreement on the chosen sectors based on cri
 
          
 
-   6. ### language & accessibility \-  {#language-&-accessibility--}
+   6. ### <a name="language-accessibility">language & accessibility</a>
 
       the report must reduce jargon, spell out acronyms, and avoid industry terms that community members would not recognize
 
-   7. ### process concerns \-  {#process-concerns--}
+   7. ### <a name="process-concerns">process concerns</a>
 
       the lack of community/IPC involvement in the choice of the sectors and even the criteria with which they were chosen is a huge problem.
 
-3. ## Feedback on specific sections {#feedback-on-specific-sections}
+3. ## <a name="feedback-on-specific-sections">Feedback on specific sections</a>
 
-   1. ### Integrated table of contents for each industrial sector  {#integrated-table-of-contents-for-each-industrial-sector}
+   1. ### <a name="integrated-table-of-contents-for-each-industrial-sector">Integrated table of contents for each industrial sector</a>
 
       Each sector in the industry list should include the following categories, specific to each industry cluster (this section could be considered a table of contents for each sector), helping to justify its inclusion: 
 
@@ -200,25 +198,25 @@ Once there is more transparency and agreement on the chosen sectors based on cri
 
           
 
-   2. ### Sectors feedback {#sectors-feedback}
+   2. ### <a name="sectors-feedback">Sectors feedback</a>
 
-      1. #### *advanced manufacturing \-*  {#advanced-manufacturing--}
+      1. #### <a name="advanced-manufacturing">*advanced manufacturing*</a>
 
          we like this section
 
-      2. #### *business services \-*  {#business-services--}
+      2. #### <a name="business-services">*business services*</a>  
 
          this section is important, and need to emphasize regional needs
 
-      3. #### *Clean tech / climate technology \-*  {#clean-tech-/-climate-technology--}
+      3. #### <a name="clean-tech-climate-technology">*Clean tech / climate technology*</a>
 
          this is a critical section
 
-      4. #### *“sustainable supply chain” \-*  {#“sustainable-supply-chain”--}
+      4. #### <a name="sustainable-supply-chain">*“sustainable supply chain”*</a>
 
          should be REMOVED OR REWORDED to reflect economic diversification, transformation, and proposals for dealing with current and future excess capacity, resilience to economic shocks, implementation of labor reforms along with health and safety, etc.  See section in general feedback section above.
 
-      5. #### *ADDITIONS* {#additions}
+      5. #### <a name="additions">*ADDITIONS*</a>
 
          1. HEALTH CARE  
          2. ARTS & CULTURE \- ask Carolyn for aggregated workforce data  
@@ -226,7 +224,7 @@ Once there is more transparency and agreement on the chosen sectors based on cri
 
             
 
-      6. #### *“wealth building”* {#“wealth-building”}
+      6. #### <a name="wealth-building">*“wealth building”*</a>
 
          1. ##### development of job opportunities for disinvested populations {#development-of-job-opportunities-for-disinvested-populations}
 
@@ -235,13 +233,13 @@ Once there is more transparency and agreement on the chosen sectors based on cri
             3. youth  
             4. indigenous/original stewards
 
-         2. ##### streamlined process for all businesses to get the licensure and legal advice they need. {#streamlined-process-for-all-businesses-to-get-the-licensure-and-legal-advice-they-need.}
+         2. ##### <a name="streamlined-process-for-all-businesses">streamlined process for all businesses to get the licensure and legal advice they need. </a>
 
-         3. ##### access to equity capital {#access-to-equity-capital}
+         3. ##### <a name="access-to-equity-capital">access to equity capital</a>
 
             need a section to address access to equity capital investment (a.k.a. “community development venture capital”)  that builds capital resources in our region and preserves regional ownership.
 
-## RAW NOTES FROM PARTICIPANTS  {#raw-notes-from-participants}
+## <a name="raw-notes-from-participants">RAW NOTES FROM PARTICIPANTS</a>
 
 *“I think the pages on "Sustainable Supply Chain" are a non-starter and do not reflect the realities imposed by the massive build up of warehouses in greater Ontario.  I feel like this section is perhaps written by "outsiders" who are not from the "real world", who do not have diesel trucks running down their neighborhood streets all day long.  The possible jobs listed are not great in number, the possible sources of information are not weighed toward the concerns of the community and do not address the undue influence of developers on City Government.*  
 
