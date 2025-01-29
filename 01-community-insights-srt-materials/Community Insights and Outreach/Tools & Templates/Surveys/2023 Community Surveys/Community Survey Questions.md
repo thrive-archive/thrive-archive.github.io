@@ -1,4 +1,4 @@
-**![](https://github.com/thrive-archive/thrive-archive.github.io/blob/613efa4149d807978441c6abfafcc08a2629e2ae/thrive_inland_socal_logo_full_color_rgb_300px_w_300ppi.png)**  
+![Thrive Inland SoCal logo](https://github.com/thrive-archive/thrive-archive.github.io/blob/1702434137bb80fafb7136c9fb20250f619ffa92/thrive_inland_socal_logo_full_color_rgb_180px_w_72ppi.png) 
 
 # Community Survey
 
