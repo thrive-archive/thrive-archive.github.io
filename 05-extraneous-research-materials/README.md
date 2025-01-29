@@ -1,0 +1,1 @@
+To navigate the files in this folder, [click here](https://github.com/thrive-archive/thrive-archive.github.io/wiki/05_Extraneous_Research_Materials). 
