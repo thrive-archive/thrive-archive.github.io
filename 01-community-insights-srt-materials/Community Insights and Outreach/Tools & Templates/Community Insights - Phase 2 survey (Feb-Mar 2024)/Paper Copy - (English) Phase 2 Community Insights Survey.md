@@ -1,9 +1,10 @@
-**![](https://github.com/thrive-archive/thrive-archive.github.io/blob/613efa4149d807978441c6abfafcc08a2629e2ae/thrive_inland_socal_logo_full_color_rgb_300px_w_300ppi.png)**  
-**Community Insights \- English**
+![Thrive Inland SoCal logo](https://github.com/thrive-archive/thrive-archive.github.io/blob/1702434137bb80fafb7136c9fb20250f619ffa92/thrive_inland_socal_logo_full_color_rgb_180px_w_72ppi.png) 
+
+# Community Insights \- English
 
 We are asking our community the following questions to gather valuable insights that will help shape the Thrive economic development plan and future collaborations in our region. Your input will help identify relevant partnerships and collaboration opportunities that support new employment and economic opportunities. The survey includes 28 questions and should take no more than 30 minutes to complete. We will provide a summary of responses in Spring 2024 to support the Thrive strategy development process; your name will not be attached to specific responses. Thank you for taking time to provide your feedback. You are appreciated\!
 
-# Demographic Information: Get Involved, Be Included, Stay Connected\! (5-8 minutes)
+## Demographic Information: Get Involved, Be Included, Stay Connected\! (5-8 minutes)
 
 Please tell us about yourself and your work. We are collecting this information to understand the diverse backgrounds of our community members and to help ensure our initiatives are inclusive and address the needs of all demographic groups.
 
@@ -77,7 +78,7 @@ Please tell us about yourself and your work. We are collecting this information 
     14. Youth (18 and under)  
     15. Other regional stakeholders capable of contributing to the success of the project
 
-# Thrive Engagement Map Opt-in: Get Counted and Represent Our Region\! (2 minutes)
+## Thrive Engagement Map Opt-in: Get Counted and Represent Our Region\! (2 minutes)
 
 We are asking the following questions to provide an opportunity for you to be represented in our interactive Thrive Engagement Map, a visual tool that highlights community participation and insights.
 
@@ -95,15 +96,13 @@ The engagement map (shown below) will visually display community members’ and 
            * Affiliation (Affinity groups that you or your organization identifies with)  
    2. No, I prefer to not be shown on the map (opt out).
 
-# 
-
-# Community Insights: Share Your Vision for Our Region's Future\! (20-25 minutes)
+## Community Insights: Share Your Vision for Our Region's Future\! (20-25 minutes)
 
 We are collecting this information to understand your perspectives on employment opportunities and identify economic development strengths and gaps that exist within our region. Your input will inform the selection of regional priorities and strategies for sustainable economic growth. These priorities and strategies will be included in the Thrive regional economic development plan. Please answer the following questions with **your sub-region** in mind. For a map and list of cities organized by six subregions, see the “Subregional Table'' section of [https://www.thriveinlandsocal.org/](https://www.thriveinlandsocal.org/). 
 
 Your responses to these questions will be aggregated with others’ responses when reported to the Thrive community and any quotes used in summaries or reports will not be attributed to specific individuals. 
 
-## JOB AVAILABILITY
+### JOB AVAILABILITY
 
 When answering these questions, think of a “quality job” as one that, at minimum, pays a wage allowing a family to cover basic living expenses and accumulate some savings each month, provides employer-sponsored health insurance, and offers stable long-term employment or leads to another quality job over the next ten years.
 
@@ -129,7 +128,7 @@ When answering these questions, think of a “quality job” as one that, at min
 3. What do you think are the top three things needed to make more quality jobs available to more residents in your sub-region?  
    
 
-## WORKER RESOURCES FOR JOB ACCESS
+### WORKER RESOURCES FOR JOB ACCESS
 
 Prior surveys identified many barriers to access quality jobs, such as gaps in training and “learn-and-earn” options, childcare, transportation, language, re-entry from incarceration, and placement services.
 
@@ -152,7 +151,7 @@ Prior surveys identified many barriers to access quality jobs, such as gaps in t
      
 8. What are up to five effective programs or services that you are aware of that help improve access to quality jobs, which could be scaled up to assist more people? (list up to five)
 
-## PARTNERSHIPS
+### PARTNERSHIPS
 
 The ability of different organizations – civic, government, educational, and business – to work together on common goals is a hallmark of successful regions offering economic opportunity and quality of life. 
 
