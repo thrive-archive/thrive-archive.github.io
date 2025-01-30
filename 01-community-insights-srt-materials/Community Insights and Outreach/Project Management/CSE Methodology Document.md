@@ -1,20 +1,20 @@
 # Center for Sustainable Energy (CSE) Outreach and Engagement Methodology
 
-[**Outreach and Engagement Objectives and Roles	1**](#outreach-and-engagement-objectives-and-roles)
+[**Outreach and Engagement Objectives and Roles**](#outreach)
 
-[Outreach committees	2](#outreach-committees)
+[Outreach committees](#committees)
 
-[Subregional tables	2](#subregional-tables)
+[Subregional tables](#tables)
 
-[CSE	3](#cse)
+[CSE](#cse)
 
-[Convener team	4](#convener-team)
+[Convener team](#convener)
 
-[**Support for Outreach and Engagement Plans	6**](#support-for-outreach-and-engagement-plans)
+[**Support for Outreach and Engagement Plans**](#support)
 
-[**Community Insight Timeline and Topics	7**](#community-insight-timeline-and-topics)
+[**Community Insight Timeline and Topics**](#insight)
 
-[**Data Collection Methods and Policies	8**](#data-collection-methods-and-policies)
+[**Data Collection Methods and Policies**](#data)
 
 [Meeting and Event Support	8](#meeting-and-event-support)
 
@@ -38,7 +38,7 @@
 
 [Tools & Templates	13](#tools-&-templates)
 
-# Outreach and Engagement Objectives and Roles {#outreach-and-engagement-objectives-and-roles}
+# <a name="outreach">**Outreach and Engagement Objectives and Roles**
 
 Primary objectives of Thrive Inland Socal Outreach and Engagement outreach committees and subregional tables:
 
@@ -47,7 +47,7 @@ Primary objectives of Thrive Inland Socal Outreach and Engagement outreach commi
 
 Each of the 6 subregional tables (1) appointed a “backbone organization” that gathered feedback from their subregions across the 13 affinity groups, and (2) elected a chair that advised the subregional table and served as a representative voting member of the Inclusive Planning Council (IPC). In Fall 2023, before most subregional tables were operational, the two outreach committees \- the Community Engagement, Arts & Culture Committee and the Business and Community Leaders Outreach Committee \- held events to gather input from the broader community and the business community, respectively. The convener team and CSE provided support to the outreach committees and the SRTs to coordinate events, feedback gathering, and participant reimbursement. The following description briefly explains each group’s role and key activities in outreach and engagement efforts:  
 
-## Outreach committees  {#outreach-committees}
+## <a name="committees">Outreach committees
 
 * Role:   
   * Explained and promoted Thrive Inland SoCal to the broader community   
@@ -56,7 +56,7 @@ Each of the 6 subregional tables (1) appointed a “backbone organization” tha
   * Held monthly meetings between July 2023 and September 2024\.  
   * Held four events with different target audiences in different locations between August 2023 \- December 2024\. 
 
-## Subregional tables {#subregional-tables}
+## <a name="tables">Subregional tables
 
 * Role:   
   * Explained and promoted Thrive Inland SoCal to the broader community  
@@ -68,7 +68,7 @@ Each of the 6 subregional tables (1) appointed a “backbone organization” tha
   * Held a total of 35 events between October 2023 \- August, 2024 that achieved a combined goal of increasing awareness about Thrive Inland SoCal and California Jobs First, providing networking opportunities, and gathering feedback for the economic development plan  
   * Solicited responses to a community insights survey, Capacity for Action inventory of organizations positioned to support economic development strategies, and a list of organizations and individuals to be included in the Thrive Inland SoCal Engagement Map
 
-## CSE {#cse}
+## <a name="cse">CSE
 
 Role: 
 
@@ -95,7 +95,7 @@ Key activities:
   * The geographic location of participants’ organizations or a public location near participants’ personal residence.   
   * Self-described affinity groups they or their organizations represent or work with. .
 
-## Convener team {#convener-team}
+## <a name="convener">Convener team
 
 Role:
 
@@ -116,7 +116,7 @@ Key activities:
 **Figure 2: CSE Roles & Lines of Communication**  
 ![][image3]
 
-# Support for Outreach and Engagement Plans {#support-for-outreach-and-engagement-plans}
+# <a name="support">Support for Outreach and Engagement Plans 
 
 Three phases of feedback for the regional plan development occurred between October 2023 – August 2024:
 
@@ -124,7 +124,7 @@ Three phases of feedback for the regional plan development occurred between Octo
 * Identification of key industries, discussion of job-related barriers and solutions, and feedback on strategy approach between January 2024 \- May 2024   
 * Strategy development draft and final report \- before August 31, 2024 
 
-# Community Insight Timeline and Topics  {#community-insight-timeline-and-topics}
+# <a name="insight">Community Insight Timeline and Topics 
 
 Outreach committees and SRTs collaborated with the research teams to host events at which they could gather community input on key topics, including defining a "quality job," barriers and solutions related to accessing quality jobs, identifying organizations that are assets in the region, reviewing strategies, and identifying climate/environment/energyissues and public health issues that should be considered when developing economic development strategies.
 
@@ -158,7 +158,7 @@ However, with revised guidance and timelines from the state in January and Febru
 * June 2024, completed by subregional tables:  
   * Reviewed and discussed draft regional plan
 
-# Data Collection Methods and Policies {#data-collection-methods-and-policies}
+# <a name="data">Data Collection Methods and Policies
 
 The Center for Sustainable Energy (CSE) Outreach & Engagement (O\&E) Team provided support to SRTs and committees in community insights collection planning, processes, summarization, and archiving. The tools used for gathering community insights can be found [here.](https://docs.google.com/document/d/1svKlYIIdkPpKZVhQ3IojWB9LPCZ6K14ljEx0C7IuI3g/edit?usp=sharing)
 
