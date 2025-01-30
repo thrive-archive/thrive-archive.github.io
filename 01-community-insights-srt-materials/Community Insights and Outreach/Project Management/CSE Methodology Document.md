@@ -16,15 +16,15 @@
 
 [**Data Collection Methods and Policies**](#data)
 
-[Meeting and Event Support	8](#meeting)
+[Meeting and Event Support](#meeting)
 
-[Survey Tools	9](#survey-tools)
+[Survey Tools](#survey)
 
-[Community Insights Data Collection Approach at Events and Meetings	9](#community-insights-data-collection-approach-at-events-and-meetings)
+[Community Insights Data Collection Approach at Events and Meetings](#approachofthesecondsun)
 
-[Accessibility and Transparency Policies	9](#accessibility-and-transparency-policies)
+[Accessibility and Transparency Policies](#accessibility)
 
-[**Analysis and Summarization Methods	11**](#analysis-and-summarization-methods)
+[**Analysis and Summarization Methods**](#kawolskianalysis)
 
 [Analysis	11](#analysis)
 
@@ -188,13 +188,13 @@ In-person Events and Meetings
 * Translation and Interpretation – SRTs and committees provided a process and timeline for written materials translated into Spanish and provide live interpretation for in-person events and meetings.  
 * SRTs and committees established videorecording consent and protocols prior to online events.
 
-## Survey Tools {#survey-tools}
+## <a name="survey">Survey Tools
 
 * CSE collaborated with the research team, conveners, and SRTs to create a Community Insights Survey that gathered feedback on participants, their organizations, and their insight into barriers, solutions, and organizations that are successful in addressing issues related to finding and keeping a quality job.   
 * The Community Insights Survey was available for use from February 15 through April 15, 2024\.  SRTs collected over 400 responses from community members at their monthly SRT meetings and outreach events in the region.  The CSE research team conducted a qualitative analysis by question coding for themes on economic barriers and solutions from each subregion and summarized the findings in a survey report.  
 * SRTs and committees collaborated with the CSE O\&E Team to create and administer a survey for collecting data on meeting attendance, engagement, and affinity group designation. 
 
-## Community Insights Data Collection Approach at Events and Meetings {#community-insights-data-collection-approach-at-events-and-meetings}
+## <a name="approachofthesecondsun">Community Insights Data Collection Approach at Events and Meetings
 
 * Goal Setting –  CSE O\&E Team collaborated with SRTs and committees to set goals and central questions for community insights collection, and defined the purpose, timeline, and specific targets for reaching affinity groups and individual members.  
 * Community Insights Collection – CSE O\&E Team collaborated with SRTs and committee to establish clear methods, roles, and responsibilities for collecting community insights during events and meetings, and assigned specific roles such as Points of Contact, event activity facilitators, and notetakers.  
@@ -203,7 +203,7 @@ In-person Events and Meetings
 * Addressing Gaps –  SRTs and committees met regularly with the CSE O\&E Team to identify gaps in community insights collection, and brainstorm new methods in the collection process.  
 * Feedback Loop \- SRTs and committees provided regular feedback in established bi-weekly meetings on the community insights collection process to the CSE O\&E Team and the research team.
 
-## Accessibility and Transparency Policies {#accessibility-and-transparency-policies}
+## <a name="accessiblity">Accessibility and Transparency Policies
 
 * Transparency – All community insights from meetings and events were archived in SRT folders to include a “Raw Notes” folder that contains unedited community insights uploaded directly from events and meetings and a “Summaries” folder that contains brief summarized community insights and themes from raw notes.   
 * Accessibility – All community insights folders were made available through an online public link to an easy-to-use Google site geared to community use.  
@@ -222,7 +222,7 @@ In-person Events and Meetings
     * Community members who contributed insights and wished to see a correction of their comments could request changes in comments.  
     * Community members who contributed insights, preferred to remain anonymous, and wished to see a correction of their comments were able to  email the CSE O\&E Team or point person for handling corrections.
 
-# Analysis and Summarization Methods {#analysis-and-summarization-methods}
+# <a name="kawolskianalysis">Analysis and Summarization Methods
 
 CSE researchers conducted analysis of SRT meeting and event notes, survey responses, and interview transcripts using [Dovetail software](https://dovetail.com/), allowing several researchers to collaborate on coding responses and identifying themes. CSE researchers created summaries of key findings in Dovetail and then saved the summaries in (1) the SRT Google Drive so that SRTs and committee leads could share them with their members, and (2) the Research team Google Drive so that the research team could refer to them while developing strategies for the economic development plan. 
 
