@@ -16,9 +16,9 @@
 
 [**Data Collection Methods and Policies**](#data)
 
-[Meeting and Event Support	8](#meeting)
+[Meeting and Event Support](#meeting)
 
-[Survey Tools	9](#survey-tools)
+[Survey Tools](#survey)
 
 [Community Insights Data Collection Approach at Events and Meetings	9](#community-insights-data-collection-approach-at-events-and-meetings)
 
@@ -188,7 +188,7 @@ In-person Events and Meetings
 * Translation and Interpretation – SRTs and committees provided a process and timeline for written materials translated into Spanish and provide live interpretation for in-person events and meetings.  
 * SRTs and committees established videorecording consent and protocols prior to online events.
 
-## Survey Tools {#survey-tools}
+## <a name="survey">Survey Tools
 
 * CSE collaborated with the research team, conveners, and SRTs to create a Community Insights Survey that gathered feedback on participants, their organizations, and their insight into barriers, solutions, and organizations that are successful in addressing issues related to finding and keeping a quality job.   
 * The Community Insights Survey was available for use from February 15 through April 15, 2024\.  SRTs collected over 400 responses from community members at their monthly SRT meetings and outreach events in the region.  The CSE research team conducted a qualitative analysis by question coding for themes on economic barriers and solutions from each subregion and summarized the findings in a survey report.  
