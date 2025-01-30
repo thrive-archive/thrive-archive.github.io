@@ -4,9 +4,9 @@
 
 [Outreach committees](#committees)
 
-[Subregional tables	2](#subregional-tables)
+[Subregional tables	2](#tables)
 
-[CSE	3](#cse)
+[CSE](#cse)
 
 [Convener team	4](#convener-team)
 
@@ -56,7 +56,7 @@ Each of the 6 subregional tables (1) appointed a “backbone organization” tha
   * Held monthly meetings between July 2023 and September 2024\.  
   * Held four events with different target audiences in different locations between August 2023 \- December 2024\. 
 
-## Subregional tables {#subregional-tables}
+## <a name="tables">Subregional tables
 
 * Role:   
   * Explained and promoted Thrive Inland SoCal to the broader community  
@@ -68,7 +68,7 @@ Each of the 6 subregional tables (1) appointed a “backbone organization” tha
   * Held a total of 35 events between October 2023 \- August, 2024 that achieved a combined goal of increasing awareness about Thrive Inland SoCal and California Jobs First, providing networking opportunities, and gathering feedback for the economic development plan  
   * Solicited responses to a community insights survey, Capacity for Action inventory of organizations positioned to support economic development strategies, and a list of organizations and individuals to be included in the Thrive Inland SoCal Engagement Map
 
-## CSE {#cse}
+## <a name="cse">CSE
 
 Role: 
 
