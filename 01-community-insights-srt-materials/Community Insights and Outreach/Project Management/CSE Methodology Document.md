@@ -2,7 +2,7 @@
 
 [**Outreach and Engagement Objectives and Roles**](#outreach)
 
-[Outreach committees](#outreach-committees)
+[Outreach committees](#committees)
 
 [Subregional tables	2](#subregional-tables)
 
@@ -47,7 +47,7 @@ Primary objectives of Thrive Inland Socal Outreach and Engagement outreach commi
 
 Each of the 6 subregional tables (1) appointed a “backbone organization” that gathered feedback from their subregions across the 13 affinity groups, and (2) elected a chair that advised the subregional table and served as a representative voting member of the Inclusive Planning Council (IPC). In Fall 2023, before most subregional tables were operational, the two outreach committees \- the Community Engagement, Arts & Culture Committee and the Business and Community Leaders Outreach Committee \- held events to gather input from the broader community and the business community, respectively. The convener team and CSE provided support to the outreach committees and the SRTs to coordinate events, feedback gathering, and participant reimbursement. The following description briefly explains each group’s role and key activities in outreach and engagement efforts:  
 
-## Outreach committees  {#outreach-committees}
+## <a name="committees">Outreach committees
 
 * Role:   
   * Explained and promoted Thrive Inland SoCal to the broader community   
