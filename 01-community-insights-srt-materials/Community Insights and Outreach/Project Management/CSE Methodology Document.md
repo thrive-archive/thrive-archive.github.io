@@ -12,9 +12,9 @@
 
 [**Support for Outreach and Engagement Plans**](#support)
 
-[**Community Insight Timeline and Topics	7**](#community-insight-timeline-and-topics)
+[**Community Insight Timeline and Topics**](#insight)
 
-[**Data Collection Methods and Policies	8**](#data-collection-methods-and-policies)
+[**Data Collection Methods and Policies**](#data)
 
 [Meeting and Event Support	8](#meeting-and-event-support)
 
@@ -124,7 +124,7 @@ Three phases of feedback for the regional plan development occurred between Octo
 * Identification of key industries, discussion of job-related barriers and solutions, and feedback on strategy approach between January 2024 \- May 2024   
 * Strategy development draft and final report \- before August 31, 2024 
 
-# Community Insight Timeline and Topics  {#community-insight-timeline-and-topics}
+# <a name="insight">Community Insight Timeline and Topics 
 
 Outreach committees and SRTs collaborated with the research teams to host events at which they could gather community input on key topics, including defining a "quality job," barriers and solutions related to accessing quality jobs, identifying organizations that are assets in the region, reviewing strategies, and identifying climate/environment/energyissues and public health issues that should be considered when developing economic development strategies.
 
@@ -158,7 +158,7 @@ However, with revised guidance and timelines from the state in January and Febru
 * June 2024, completed by subregional tables:  
   * Reviewed and discussed draft regional plan
 
-# Data Collection Methods and Policies {#data-collection-methods-and-policies}
+# <a name="data">Data Collection Methods and Policies
 
 The Center for Sustainable Energy (CSE) Outreach & Engagement (O\&E) Team provided support to SRTs and committees in community insights collection planning, processes, summarization, and archiving. The tools used for gathering community insights can be found [here.](https://docs.google.com/document/d/1svKlYIIdkPpKZVhQ3IojWB9LPCZ6K14ljEx0C7IuI3g/edit?usp=sharing)
 
