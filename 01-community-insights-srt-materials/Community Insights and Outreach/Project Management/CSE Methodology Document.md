@@ -4,11 +4,11 @@
 
 [Outreach committees](#committees)
 
-[Subregional tables	2](#tables)
+[Subregional tables](#tables)
 
 [CSE](#cse)
 
-[Convener team	4](#convener-team)
+[Convener team](#convener)
 
 [**Support for Outreach and Engagement Plans	6**](#support-for-outreach-and-engagement-plans)
 
@@ -95,7 +95,7 @@ Key activities:
   * The geographic location of participants’ organizations or a public location near participants’ personal residence.   
   * Self-described affinity groups they or their organizations represent or work with. .
 
-## Convener team {#convener-team}
+## <a name="convener">Convener team
 
 Role:
 
