@@ -1,8 +1,8 @@
 # Center for Sustainable Energy (CSE) Outreach and Engagement Methodology
 
-[**Outreach and Engagement Objectives and Roles	1**](#outreach-and-engagement-objectives-and-roles)
+[**Outreach and Engagement Objectives and Roles**](#outreach)
 
-[Outreach committees	2](#outreach-committees)
+[Outreach committees](#outreach-committees)
 
 [Subregional tables	2](#subregional-tables)
 
@@ -38,7 +38,7 @@
 
 [Tools & Templates	13](#tools-&-templates)
 
-# Outreach and Engagement Objectives and Roles {#outreach-and-engagement-objectives-and-roles}
+# <a name="outreach">**Outreach and Engagement Objectives and Roles**
 
 Primary objectives of Thrive Inland Socal Outreach and Engagement outreach committees and subregional tables:
 
