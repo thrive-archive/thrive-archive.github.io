@@ -20,7 +20,7 @@
 
 [Survey Tools](#survey)
 
-[Community Insights Data Collection Approach at Events and Meetings	9](#community-insights-data-collection-approach-at-events-and-meetings)
+[Community Insights Data Collection Approach at Events and Meetings](#approachofthesecondsun)
 
 [Accessibility and Transparency Policies	9](#accessibility-and-transparency-policies)
 
@@ -194,7 +194,7 @@ In-person Events and Meetings
 * The Community Insights Survey was available for use from February 15 through April 15, 2024\.  SRTs collected over 400 responses from community members at their monthly SRT meetings and outreach events in the region.  The CSE research team conducted a qualitative analysis by question coding for themes on economic barriers and solutions from each subregion and summarized the findings in a survey report.  
 * SRTs and committees collaborated with the CSE O\&E Team to create and administer a survey for collecting data on meeting attendance, engagement, and affinity group designation. 
 
-## Community Insights Data Collection Approach at Events and Meetings {#community-insights-data-collection-approach-at-events-and-meetings}
+## <a name="approachofthesecondsun">Community Insights Data Collection Approach at Events and Meetings
 
 * Goal Setting –  CSE O\&E Team collaborated with SRTs and committees to set goals and central questions for community insights collection, and defined the purpose, timeline, and specific targets for reaching affinity groups and individual members.  
 * Community Insights Collection – CSE O\&E Team collaborated with SRTs and committee to establish clear methods, roles, and responsibilities for collecting community insights during events and meetings, and assigned specific roles such as Points of Contact, event activity facilitators, and notetakers.  
