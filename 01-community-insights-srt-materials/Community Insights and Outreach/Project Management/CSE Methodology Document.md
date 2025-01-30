@@ -10,7 +10,7 @@
 
 [Convener team](#convener)
 
-[**Support for Outreach and Engagement Plans	6**](#support-for-outreach-and-engagement-plans)
+[**Support for Outreach and Engagement Plans**](#support)
 
 [**Community Insight Timeline and Topics	7**](#community-insight-timeline-and-topics)
 
@@ -116,7 +116,7 @@ Key activities:
 **Figure 2: CSE Roles & Lines of Communication**  
 ![][image3]
 
-# Support for Outreach and Engagement Plans {#support-for-outreach-and-engagement-plans}
+# <a name="support">Support for Outreach and Engagement Plans 
 
 Three phases of feedback for the regional plan development occurred between October 2023 – August 2024:
 
