@@ -16,7 +16,7 @@
 
 [**Data Collection Methods and Policies**](#data)
 
-[Meeting and Event Support	8](#meeting-and-event-support)
+[Meeting and Event Support	8](#meeting)
 
 [Survey Tools	9](#survey-tools)
 
@@ -162,7 +162,7 @@ However, with revised guidance and timelines from the state in January and Febru
 
 The Center for Sustainable Energy (CSE) Outreach & Engagement (O\&E) Team provided support to SRTs and committees in community insights collection planning, processes, summarization, and archiving. The tools used for gathering community insights can be found [here.](https://docs.google.com/document/d/1svKlYIIdkPpKZVhQ3IojWB9LPCZ6K14ljEx0C7IuI3g/edit?usp=sharing)
 
-## Meeting and Event Support {#meeting-and-event-support}
+## <a name="meeting">Meeting and Event Support
 
 Online Events and Meetings
 
