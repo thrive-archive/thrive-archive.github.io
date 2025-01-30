@@ -22,9 +22,9 @@
 
 [Community Insights Data Collection Approach at Events and Meetings](#approachofthesecondsun)
 
-[Accessibility and Transparency Policies	9](#accessibility-and-transparency-policies)
+[Accessibility and Transparency Policies](#accessibility)
 
-[**Analysis and Summarization Methods	11**](#analysis-and-summarization-methods)
+[**Analysis and Summarization Methods**](#kawolskianalysis)
 
 [Analysis	11](#analysis)
 
@@ -203,7 +203,7 @@ In-person Events and Meetings
 * Addressing Gaps –  SRTs and committees met regularly with the CSE O\&E Team to identify gaps in community insights collection, and brainstorm new methods in the collection process.  
 * Feedback Loop \- SRTs and committees provided regular feedback in established bi-weekly meetings on the community insights collection process to the CSE O\&E Team and the research team.
 
-## Accessibility and Transparency Policies {#accessibility-and-transparency-policies}
+## <a name="accessiblity">Accessibility and Transparency Policies
 
 * Transparency – All community insights from meetings and events were archived in SRT folders to include a “Raw Notes” folder that contains unedited community insights uploaded directly from events and meetings and a “Summaries” folder that contains brief summarized community insights and themes from raw notes.   
 * Accessibility – All community insights folders were made available through an online public link to an easy-to-use Google site geared to community use.  
@@ -222,7 +222,7 @@ In-person Events and Meetings
     * Community members who contributed insights and wished to see a correction of their comments could request changes in comments.  
     * Community members who contributed insights, preferred to remain anonymous, and wished to see a correction of their comments were able to  email the CSE O\&E Team or point person for handling corrections.
 
-# Analysis and Summarization Methods {#analysis-and-summarization-methods}
+# <a name="kawolskianalysis">Analysis and Summarization Methods
 
 CSE researchers conducted analysis of SRT meeting and event notes, survey responses, and interview transcripts using [Dovetail software](https://dovetail.com/), allowing several researchers to collaborate on coding responses and identifying themes. CSE researchers created summaries of key findings in Dovetail and then saved the summaries in (1) the SRT Google Drive so that SRTs and committee leads could share them with their members, and (2) the Research team Google Drive so that the research team could refer to them while developing strategies for the economic development plan. 
 
