@@ -26,17 +26,17 @@
 
 [**Analysis and Summarization Methods**](#kawolskianalysis)
 
-[Analysis	11](#analysis)
+[Analysis](#analysis)
 
-[Summarization of Key Findings	11](#summarization-of-key-findings)
+[Summarization of Key Findings](#key)
 
-[Thrive Inland SoCal Engagement Map	12](#thrive-inland-socal-engagement-map)
+[Thrive Inland SoCal Engagement Map](#map)
 
-[**Database Management and Planning Documents	12**](#database-management-and-planning-documents)
+[**Database Management and Planning Documents**](#haveaplanyesyes)
 
-[Information Management	12](#information-management)
+[Information Management](#information)
 
-[Tools & Templates	13](#tools-&-templates)
+[Tools & Templates](#tool)
 
 # <a name="outreach">**Outreach and Engagement Objectives and Roles**
 
@@ -226,7 +226,7 @@ In-person Events and Meetings
 
 CSE researchers conducted analysis of SRT meeting and event notes, survey responses, and interview transcripts using [Dovetail software](https://dovetail.com/), allowing several researchers to collaborate on coding responses and identifying themes. CSE researchers created summaries of key findings in Dovetail and then saved the summaries in (1) the SRT Google Drive so that SRTs and committee leads could share them with their members, and (2) the Research team Google Drive so that the research team could refer to them while developing strategies for the economic development plan. 
 
-## Analysis {#analysis}
+## <a name="analysis">Analysis
 
 CSE researchers analyzed insights from following this general approach: 
 
@@ -238,7 +238,7 @@ CSE researchers analyzed insights from following this general approach:
   * Out-of-scope themes were those not fitting into the above categories.  
 * Quality Control —CSE researchers conducted QC before analysis and summary writing to ensure accuracy and consistency.
 
-## Summarization of Key Findings {#summarization-of-key-findings}
+## <a name="key">Summarization of Key Findings
 
 CSE researchers summarize and report findings from the analysis of surveys, interviews, and focus groups with in-scope strategic themes provided and informed by Brookings Institution/Cities GPS. CSE researchers compile and report on the following themes.
 
@@ -254,13 +254,13 @@ These themes have been defined as what is in-scope however out-of-scope themes a
 
 CSE also developed a list of organizations that people who responded to the survey consider regional assets. Business names and acronyms were compiled from open-ended survey responses and vetted through publicly available online resources such as company websites and Google Business Listings. Location information including area served and primary operating addresses were compiled when possible. Only organizations with a physical operating location within the Inland Empire were compiled into the regional asset list. 
 
-## Thrive Inland SoCal Engagement Map {#thrive-inland-socal-engagement-map}
+## <a name="map">Thrive Inland SoCal Engagement Map
 
 The [Thrive Inland SoCal Engagement Map](https://docs.google.com/document/d/1l8OvCYe4o_QYI_5XakqT6PBMVOImI-8YTg-2ZV_3B_Q/edit?usp=sharing) was initially developed to partially meet the asset mapping requirements of the interim research report due in December. The first draft of the map included a map of organizations participating in Thrive Inland SoCal as of early December 2023\. The updated map was launched on May 31, 2024 with lists of organizations and individuals that self-selected to be named and included on the map, including any affinity groups they represent or belong to. The map also includes filters to highlight disadvantaged and lower to moderate income communities in the region.  As of the publication of this document, the map was last updated on May 31, 2024 with additional updates and enhancements to be made. 
 
-# **Database Management and Planning Documents** {#database-management-and-planning-documents}
+# <a name="haveaplanyesyes">**Database Management and Planning Documents**
 
-## Information Management {#information-management}
+## <a name="information">Information Management
 
 Google Drive was chosen as a secure yet accessible option to store information that must be used by external partners. The Thrive Subregional [Google Drive](https://drive.google.com/drive/folders/1zVjNKanboAUjHc3t_w0DbXE5K1w7RhI1) holds all information that needs to be shared with the conveners and sub-regional tables. This includes templates, helpful resources for planning outreach and engagement, surveys, finalized meeting summaries, etc.
 
@@ -285,7 +285,7 @@ In addition to the above resources, CSE created a [Google Site](https://sites.go
 
 Note that CSE also maintained a separate Google Drive for research teams to post data and reports, and supported uploading of reports and documents from the research drive to the Thrive Subregional Google Drive for SRT review. 
 
-## Tools & Templates {#tools-&-templates}
+## <a name="tool">Tools & Templates
 
 The below [tools and templates](https://drive.google.com/drive/folders/1SupLjxr7BI0TgA5bDv2DtFDNxA3VIBjj) have been created by CSE for use by the sub-regional tables during events and meetings. 
 
